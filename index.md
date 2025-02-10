@@ -1,5 +1,3 @@
 ---
-title: First Post
-date: 2025-02-10
+title: First Blog
 ---
-First blog post Yippee!
