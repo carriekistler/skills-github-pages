@@ -1,8 +1,4 @@
 ---
-title: Welcome to my Website
----
+title: First Blog
 
 ---
-Gpt Wrapper
----
-
